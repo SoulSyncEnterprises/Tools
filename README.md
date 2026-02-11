@@ -320,9 +320,9 @@ SOFTWARE.
 
 ## Acknowledgments
 
-- Built with â¤ï¸ by a solo developer with big AI integration projects
+- Built with Airo and Claud¸ by a solo developer with big AI integration projects
 - Inspired by the open-source community
-- Powered by coffee and determination â˜•
+- Powered by coffee and determination.
 - Special thanks to all contributors and supporters
 
 ---
