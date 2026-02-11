@@ -19,7 +19,7 @@ About SoulSync Enterprises
 
 We're a solo developer creating **41+ free, open-source tools** for AI integration, voice applications, and e-commerce automation. Our mission is to make advanced AI technology accessible to everyoneâ€”from indie developers to enterprise teams.
 
-### ðŸŒŸ What We Build
+### What We Build
 
 - **AI Integration Tools** - Connect and orchestrate multiple AI systems
 - **Voice Applications** - Build sophisticated voice-enabled experiences
